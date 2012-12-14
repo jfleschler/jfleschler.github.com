@@ -10,7 +10,7 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : blog 
-tagline: a place about stuff. 
+tagline: a place about stuff 
 author :
   name : Jon Fleschler
   email : jon.fleschler@gmail.com 
